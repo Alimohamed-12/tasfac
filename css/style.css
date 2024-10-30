@@ -1,0 +1,47 @@
+body {
+    /* text-align: center; */
+    margin: 20px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+#info {
+    margin: 30px 0;
+   font-size: 30px;
+    color: red;
+    text-align: center;
+    
+}
+h1{
+    font-size: 40px;
+    color: green;
+
+}
+h2{
+    font-size: 40px;
+    text-align: center;
+    color: black;
+}
+video {
+    max-width: 100%;
+    height: auto;
+}
+#info {
+    margin-top: 20px;
+    font-size: 1.2em;
+}
+#infovide{
+    text-align: center;
+    font-size: 30px;
+    color: blueviolet;
+    margin-top: 20px;
+}
+audio {
+    width: 100%;
+    max-width: 600px;
+}
+#infoaudio{
+    margin-top: 20px;
+    font-size: 1.2em;
+}
